@@ -5,6 +5,7 @@ int main()
     int a[5],i,j,temp;
     //take input for the array
     cout<<"Enter the 5 elemets in the array : \n";
+    
     for (i=0;i<5;i++)
     {
         cin>>a[i];
